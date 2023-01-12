@@ -56,4 +56,9 @@ I am a Data Scientist & ML Engineer <img src="https://media.giphy.com/media/WUlp
 ---
 
 ### :fire: My Stats :
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=FeOsTyLeOp&theme=dark&background=000000)](https://git.io/streak-stats)
+
+<div id="stat" align="center">
+	<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=FeOsTyLeOp&theme=github_dark"/>
+	<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=FeOsTyLeOp&theme=github_dark"/>
+	<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=FeOsTyLeOp&theme=github_dark"/>
+</div>
