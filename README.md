@@ -25,7 +25,7 @@
 </div>
 
 ### :woman_technologist: About Me :
-I am a Data Scientist & ML Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Russia.
+I am a Data Scientist & ML Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Kaliningrad.
 
 - :telescope: I am a data scientist with experience in projects. Participant in more than 5 competitions, where I have created models that are most meet the objectives and evaluation metrics, the result is a score better than 92% of participants. I have skills in machine learning, statistics, problem solving problem solving and programming skills..
 
