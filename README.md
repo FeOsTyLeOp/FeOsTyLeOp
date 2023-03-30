@@ -25,13 +25,24 @@
 </div>
 
 ### :woman_technologist: About Me :
-I am a Data Scientist & ML Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Kaliningrad.
+I am a Data Scientist & ML/DL Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Kaliningrad.
 
-- :telescope: I am a data scientist with experience in projects. Participant in more than 5 competitions, where I have created models that are most meet the objectives and evaluation metrics, the result is a score better than 92% of participants. I have skills in machine learning, statistics, problem solving problem solving and programming skills..
+- :telescope: I am an expert in machine learning and computer vision, capable of developing and implementing innovative solutions to complex problems. I am successfully working on a project to detect food in images and provide recipes to customers.
 
-- :seedling: Developed machine learning models for: predicting property values based on house attributes and its geolocation, credit rating and credit default, determination of the value transaction value for the customer.
+	I also have experience in self-training and participating in Kaggle competitions in classical machine learning. I have an excellent command of Python and have skills with machine learning libraries such as Sklearn and PyTorch. I am an organized and responsible professional, able to work in a team and achieve high results under tight deadlines.
 
-- :zap: In my free time, I study Deep Learning, read books and parse code.
+	I am ready to apply my knowledge and experience in machine learning to create innovative products and solutions that will have a positive contribution to business processes and meet customer needs.
+
+- :seedling: My technology stack includes:
+
+ 	Python programming language using the Sklearn library for machine learning.
+ 	PyTorch framework for creating and training neural networks, including computer vision (CV).
+ 	FastAPI for creating high-performance Python-based web applications and APIs.
+ 	Relational databases, including PostgreSQL and knowledge of SQL language.
+ 	Experience working in a Linux environment, including setting up and managing Docker containers.
+ 	Using Git version control system for project source code management and team collaboration.
+
+- :zap: In my free time, I am implementing my own project in the field of computer vision and algorithmic trading
 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Vitaliy-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ml-vitaliy-shpak/)
 
@@ -50,6 +61,9 @@ I am a Data Scientist & ML Engineer <img src="https://media.giphy.com/media/WUlp
   <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Linux" alt="Linux" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL" alt="MySQL" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/kaggle/kaggle-original-wordmark.svg" title="Kaggle" alt="Kaggle" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/fastapi/fastapi-original-wordmark.svg" title="Kaggle" alt="Kaggle" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/opencv/opencv-original.svg title="Kaggle" alt="Kaggle" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/pytorch/pytorch-plain-wordmark.svg" title="Kaggle" alt="Kaggle" width="40" height="40"/>&nbsp;
  
 </div>
 
